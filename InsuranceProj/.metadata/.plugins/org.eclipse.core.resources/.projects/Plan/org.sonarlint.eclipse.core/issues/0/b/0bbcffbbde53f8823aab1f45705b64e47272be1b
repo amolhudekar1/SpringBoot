@@ -1,0 +1,11 @@
+
+\
+java:S1172Y"(Remove this unused method parameter "e".b e1671797c52e15f763380b45e841ec32h
+ç
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+v
+java:S6813#"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+ç
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").b 71ec70aa0983d71117db3e53ce34d811h
+v
+java:S6813&"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

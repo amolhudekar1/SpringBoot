@@ -1,0 +1,13 @@
+
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b 870788f92ac934a7b7ea5172e7cb01a7h
+ç
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").b 3fa5d2de3619924f8dbb4d0c1c127d57h
+ç
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").b 870788f92ac934a7b7ea5172e7cb01a7h
+ç
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").b 870788f92ac934a7b7ea5172e7cb01a7h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Z
+java:S14527"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh

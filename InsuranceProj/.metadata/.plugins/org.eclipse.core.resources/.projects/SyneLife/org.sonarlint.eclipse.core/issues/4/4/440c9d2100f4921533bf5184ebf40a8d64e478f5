@@ -1,0 +1,12 @@
+
+y	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+ç
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").b 0cfae198080e3b45d4afe4bbcd61f593h
+x
+java:S22594"DA "NullPointerException" could be thrown; "policy" is nullable here.b 5ecb78f22e77b4db4bd4194358a97889h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+m
+java:S21304"9Use "Integer.parseInt" for this string-to-int conversion.b 9bfa5871b888fac2710e7b1c237a0ec4h
